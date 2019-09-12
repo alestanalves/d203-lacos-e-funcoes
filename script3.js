@@ -31,3 +31,11 @@ function fazerEscadinha (material, degraus){
     console.log(escada);
   }
 }
+
+const subtrair = function(n1, n2){
+  return n1 - n2;
+}
+
+const gerarAleatorio = () => {
+  return Math.random();
+}
