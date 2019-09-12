@@ -16,3 +16,9 @@ const subtrair = function(n1, n2){
 const gerarAleatorio = (min, max) => {
     return Math.floor(Math.random()*(min - max +1)) + min;
 }
+
+let lerolero = ["frases", "seja o seu bus"]
+
+const gerarFrases = () => {    
+    return lerolero[gerarFrases(0,2)];
+}
