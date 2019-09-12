@@ -6,3 +6,5 @@
 **12/09/2019**
 
 ### Laços e Funções
+
+- **_Função (function):_** são blocos de construção fundamentais em JS. `function nomeDaFuncao = (){}`
